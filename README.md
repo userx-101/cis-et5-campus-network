@@ -3,8 +3,6 @@
 ![OSI Model Preview](preview.png)
 A comprehensive, enterprise-level network simulation designed and implemented via Cisco Packet Tracer. This project replicates a real-world, high-availability infrastructure connecting three key educational and administrative facilities within an institute's campus.
 
-Developed as a capstone project following a rigorous 6-month Computer Networking track with IEEE ET5.
-
 🏢 Topology Overview
 The architecture establishes end-to-end connectivity across three separate buildings:
 
